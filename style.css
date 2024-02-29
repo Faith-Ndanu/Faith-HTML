@@ -1,0 +1,108 @@
+.image4{
+    width:80px;
+    height: 70px;
+    padding: 50px;
+}
+#lastsection{
+    display: flex;
+}
+#privacy{
+    display: flex;
+    margin-left: 80px;
+}
+.p{
+    padding:50px; 
+}
+#Conta{
+   margin-top: 100px;
+}
+.About{
+    width:80px;
+    height: 70px;
+
+}
+#about{
+    margin-left: 100px;
+  
+}
+body{
+    background-color: aqua;
+    padding: 150px;
+}
+#main{
+    padding: 50px;
+    border: none;
+    margin-left: 100px;
+    background-color: white;
+   
+}
+#Getus{
+    display: flex;
+    margin-top: 400px;
+    margin-left: 0px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+#get{
+    
+    display: flex;
+    
+}
+.sep{
+    margin-left: 50px;
+    margin-top: 100px;
+}
+#res{
+    margin-top: 150px;
+}
+.Ions{
+    width:50px;
+    height: 60px;
+    margin-left: 20px;
+
+}
+.side{
+    width:100px;
+    height:80px;
+}
+#sam{
+    width:200px;
+    height:150px;
+}
+#Samsung{
+    display: flex;
+    margin-left: 100px;
+}
+.image2{
+    width: 100px;
+    height: 90px;
+    display: flex;
+}
+#top{
+    display: flex;
+}
+#new{
+    display: flex;
+}
+#alr{
+    margin-left: 2px;
+}
+#discount{
+    display: flex;
+
+}
+.img5{
+    width: 10px;
+    height: 20px;
+    }
+    #shipping{
+        display: flex;
+    }
+    .image{
+        width: 120px;
+        height: 150px;
+    }
+    #image{
+        display: flex;
+    }
+
